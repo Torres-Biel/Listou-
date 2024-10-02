@@ -5,7 +5,24 @@
 }
 body{
     background-color: #644989 !important; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
+
+
+.lista {
+    background-color: #343A40;
+   
+    width: 80%; /* Defina a largura desejada */
+    margin: 0 auto; /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o texto dentro da div */
+}
+
+.container h1 {
+    text-align: center;
+}
+
 .nav-item a{
     font-size: 1.5em;
     color: black;
@@ -22,7 +39,10 @@ header{
     
    
 }
+.modal-dialog{
+    
 
+}
 .modal-content{
     width: 325px;
     
@@ -67,68 +87,10 @@ header{
     
  }
 
+ 
+  .nome-do-produto {
+    position: relative;
 }
 
- /* ........................................................................................................................  */
 
-
- .container {
-    width: 300px;
-    margin: 0 auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
-  
-  h2 {
-    text-align: center;
-    margin-bottom: 20px;
-  }
-  
-  .item {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-  }
-  
-  .item label {
-    margin-left: 10px;
-  }
-  
-  .item .delete-button {
-    margin-left: auto;
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .item .edit-button {
-    margin-left: 10px;
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .add-item {
-    display: flex;
-    margin-top: 20px;
-  }
-  
-  .add-item input[type="text"] {
-    flex-grow: 1;
-    padding: 5px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-  }
-  
-  .add-item button {
-    margin-left: 10px;
-    padding: 5px 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
-  }
-
-
+}

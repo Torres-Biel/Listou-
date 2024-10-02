@@ -104,16 +104,16 @@
        <div id="div" class="container-fluid d-flex justify-content-center">
         <div class=" nsei ">
         <div id="fora" class="d-flex w-100">
-                <a id="dent" class="w-75 pl-2" href="produtos.php">
-                    <div id="dentro" class=" text-truncate" ><h1 id="Nomedalista ">Lista 1</h1></div>
+                <a id="dent" class="w-75 pl-2" href="produtos.html">
+                    <div id="dentro" class=" text-truncate" ><h1 id="Nomedalista ">Lista de cosdfsdfsfsfddmpras grande grande grande</h1></div>
                 </a>
                 <div  id="lixo"><a href=""><i class="fa-solid fa-pen-to-square fa-2x ml-2 mr-2"></i></a></div>
                 <div  id="lixo"><a href=""><i class="fa-solid fa-trash-can fa-2x mr-2"></i></a></div>
                
             </div>
             <div id="fora" class="d-flex w-100">
-                <a id="dent" class="w-75 pl-2" href="produtos.php">
-                    <div id="dentro" class=" text-truncate" ><h1 id="Nomedalista ">Lista 2</h1></div>
+                <a id="dent" class="w-75 pl-2" href="produtos.html">
+                    <div id="dentro" class=" text-truncate" ><h1 id="Nomedalista ">Lista de cosdfsdfsfsfddmpras grande grande grande</h1></div>
                 </a>
                 <div  id="lixo"><a href=""><i class="fa-solid fa-pen-to-square fa-2x ml-2 mr-2"></i></a></div>
                 <div  id="lixo"><a href=""><i class="fa-solid fa-trash-can fa-2x mr-2"></i></a></div>
